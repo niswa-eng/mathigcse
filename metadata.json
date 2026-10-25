@@ -1,0 +1,8 @@
+{
+  "name": "Remix Cambridge IGCSE Mathematics Whiteboard",
+  "description": "Interactive whiteboard and classroom mathematics teaching application for Cambridge IGCSE Mathematics (0580) Core and Extended.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
